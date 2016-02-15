@@ -10,6 +10,9 @@
     	"react-native-vector-icons": "^1.1.1",
     	"react-timer-mixin": "^0.13.3"
   	}
+  	
+react-native-vector-icons有点特殊，要看一下官网https://github.com/oblador/react-native-vector-icons，里面要导入一个依赖工程
+
 
 ###效果图
 
