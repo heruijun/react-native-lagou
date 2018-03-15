@@ -1,6 +1,7 @@
 # react-native-lagou
 
 春节期间学习react native的第一个demo，基于es6语法，仿拉勾，目前暂时只支持ios，后期会再做一个Android版本
+对flutter感兴趣的，可以看我另外一个仿boss直聘的开源项目[flutter_boss](https://github.com/heruijun/flutter_boss).
 
 ### 依赖组件
   	"dependencies": {
@@ -17,3 +18,5 @@ react-native-vector-icons有点特殊，里面要导入一个依赖工程，要�
 ### 效果图
 
 ![img](https://github.com/heruijun/react-native-lagou/blob/master/pic.gif)
+
+
